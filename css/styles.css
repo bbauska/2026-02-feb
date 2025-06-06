@@ -1,0 +1,120 @@
+<!-- css/styles.css of 2026-Feb.bauska.org -->
+body {
+  font-family:Helvetica;
+}
+table {
+  table-layout:fixed;
+  width:70%; 
+}
+.month-header {
+  background-image:url("https://2026-feb.bauska.org/images/andthegaynightlife-600px2.jpg");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:300px;
+  text-align:right;
+}
+
+h1 {
+  color:#FFF;
+  font-size:200%;
+  font-weight:700;
+  letter-spacing:3px;
+  padding-right:50px;
+  padding-top:150px;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  vertical-align:top;
+}
+p {
+  color:#FFF;
+  font-size:200%;
+  font-weight:700;
+  letter-spacing:3px;
+  padding-right:50px;
+  padding-top:150px;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  vertical-align:top;
+}
+
+/* padding-bottom:150px; */
+.copyright-notice {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
+
+.weekday-header {
+  background-color:#999;  /* dark gray */
+  border-color:#ddd;  /* very light gray */
+  border-style:solid;
+  letter-spacing:1px;
+  line-height:25px;
+}
+.week {
+  background-color:#ffff00;  /* eaeaea = very light gray */
+  height:75px;
+  margin:0;
+  text-align:left;
+  vertical-align:top;
+}
+
+.off-day {
+  background-color:#ddd;  /* very light gray */
+}
+
+ul {
+    font-size:75%;
+    list-style:none;
+    padding-left:20px;
+    padding-right:5px;
+}
+
+.event {
+    border-radius:5px;
+    color:#10171c;  /* very dark (mostly black) blue */
+    padding:5px;
+    margin:5px 0;
+}
+
+.groundhog {
+    background-color:#e8e193;  /* very soft yellow */
+}
+.cancer {
+    background-color:#c2e7e7;  /* light grayish cyan */
+}
+.natl-read-aloud {
+    background-color:#ff8080;  /* very light red */
+}
+.natl-pizza {
+    background-color:#ffbf80;  /* very light orange */
+}
+.superbowl {
+    background-color:#ff80bf;  /* light pink */
+}
+.intl-condom {
+    background-color:#80bfff;  /* very light blue */
+}
+.lincoln {
+    background-color:#ff5d5d;  /* light red */
+}
+.valentines {
+    background-color:#e6cdff;  /* very pale violet */
+}
+.fathers-day {
+    background-color:#ffcc67;  /* very light orange */
+}
+.presidents {
+    background-color:#ff9967;  /* very light orange */
+}
+.random-kindness {
+    background-color:#ff55d5;  /* light magenta */
+}
+.natl-love-pet {
+    background-color:#9ab3ff;  /* pale blue */
+}
+.washinton-bday {
+    background-color:#98fb98;  /* very soft lime green */
+}
