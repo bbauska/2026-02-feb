@@ -82,39 +82,85 @@ ul {
 .groundhog {
     background-color:#e8e193;  /* very soft yellow */
 }
-.cancer {
+.natl-womens-physicians {
+    background-color:#ff9999;  /* very light red */
+}
+.world-cancer {
     background-color:#c2e7e7;  /* light grayish cyan */
 }
-.natl-read-aloud {
+.natl-wear-red {
     background-color:#ff8080;  /* very light red */
 }
-.natl-pizza {
+.intl-day-zero-tolerance {
     background-color:#ffbf80;  /* very light orange */
 }
-.superbowl {
-    background-color:#ff80bf;  /* light pink */
+.world-pulses {
+  background-color:#ccaa44;
+}
+.intl-day-of-women {
+  background-color:#aabbcc;
+}
+.darwin {
+  background-color:#777777;
+}
+.lincolns-bd {
+    background-color:#aa5bbd;  /* light red */
+}
+.galentines {
+  background-color:#aaa999;
 }
 .intl-condom {
     background-color:#80bfff;  /* very light blue */
 }
-.lincoln {
-    background-color:#ff5d5d;  /* light red */
+.natl-cheddar {
+  background-color:#bbbaaa;
 }
 .valentines {
     background-color:#e6cdff;  /* very pale violet */
 }
-.fathers-day {
-    background-color:#ffcc67;  /* very light orange */
+.natl-pizza {
+  background-color:#ff3333;  /* */
+}
+.superbowl {
+  background-color:#999aaa;
 }
 .presidents {
     background-color:#ff9967;  /* very light orange */
 }
+.mardis-gras {
+  background-color:#ccc999;
+}
+.chinese-new-year {
+  background-color:#aaa000;
+}
 .random-kindness {
     background-color:#ff55d5;  /* light magenta */
 }
-.natl-love-pet {
-    background-color:#9ab3ff;  /* pale blue */
+.ash-wednesday {
+  background-color:#bbb99a;
 }
-.washinton-bday {
-    background-color:#98fb98;  /* very soft lime green */
+.natl-drink-wine {
+    background-color:#9ab3ff;  /*  */
 }
+.natl-love-your-pet {
+    background-color:#0ac3fa;  /*  */
+}
+.world-day-social-justice {
+  background-color:#11aabb;
+}
+.intl-mother-lang {
+    background-color:#ff00ff;  /*  */
+}
+.washingtons-bd {
+    background-color:#aa99ff;  /*  */
+}
+.natl-margarita {
+    background-color:#ff11ff;  /*  */
+}
+.dominican-rep-indep {
+    background-color:#bb11ee;  /*  */
+}
+.natl-tooth-fairy {
+    background-color:#00aabb;
+}
+
