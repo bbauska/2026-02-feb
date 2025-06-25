@@ -106,7 +106,7 @@ a:hover::after {
 
 <!-- World, National & International Days -->
 .groundhog {
-    background-color:#e8e193;  /* very soft yellow */
+    background-color:#9aff9a;  /* pale lime green */
 }
 .natl-womens-physicians {
     background-color:#ff9999;  /* very light red */
@@ -133,28 +133,31 @@ a:hover::after {
     background-color:#aa5bbd;  /* light red */
 }
 .galentines {
-  background-color:#aaa999;
+  background-color:#aaa999;  /* dark grayish yellow */
 }
 .intl-condom {
     background-color:#80bfff;  /* very light blue */
 }
 .natl-cheddar {
-  background-color:#bbbaaa;
+  background-color:#efefeb;  /* light grayish yellow */
 }
 .valentines {
     background-color:#e6cdff;  /* very pale violet */
 }
 .natl-pizza {
-  background-color:#ff3333;  /* */
+  background-color:#ff8080;  /* very light red */
+}
+.world-pulses {
+  background-color:#e18787;  /* very soft red */
 }
 .superbowl {
-  background-color:#999aaa;
+  background-color:#c3c3cd;  /* grayish blue  */
 }
 .presidents {
-    background-color:#ff9967;  /* very light orange */
+    background-color:#ffccb4;  /* pale orange */
 }
 .mardis-gras {
-  background-color:#ccc999;
+  background-color:#dddbbb;  /* light grayish yellow */
 }
 .chinese-new-year {
   background-color:#aaa000;
@@ -169,24 +172,24 @@ a:hover::after {
     background-color:#9ab3ff;  /*  */
 }
 .natl-love-your-pet {
-    background-color:#0ac3fa;  /*  */
+    background-color:#89eaf4;  /* very soft cyan */
 }
 .world-day-social-justice {
-  background-color:#11aabb;
+  background-color:#43ddee;  /* bright cyan */
 }
 .intl-mother-lang {
-    background-color:#ff00ff;  /*  */
+    background-color:#80ff00;  /* pure (or mostly pure) green */
 }
 .washingtons-bd {
-    background-color:#aa99ff;  /*  */
+    background-color:#aa99ff;  /* very light blue */
 }
 .natl-margarita {
-    background-color:#ff11ff;  /*  */
+    background-color:#ff5eff;  /* light magenta */
 }
 .dominican-rep-indep {
-    background-color:#bb11ee;  /*  */
+    background-color:#c941f1;  /* bright magenta */
 }
 .natl-tooth-fairy {
-    background-color:#00aabb;
+    background-color:#00aabb;  /* strong cyan */
 }
 
