@@ -67,7 +67,7 @@ ul {
     padding:5px;
     margin:5px 0;
 }
-<!-- added 6-10-25 5:08pm -->
+
 .container {
   background-color: #ffffff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
@@ -78,6 +78,7 @@ ul {
   text-align: center;
   font-family: Helvetica, Arial, sans-serif;
 }
+
 a {
   color: #4169e1;  /* royalblue */
   text-decoration: none;
