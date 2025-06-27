@@ -1,4 +1,4 @@
-<!-- css/styles.css of 2026-Feb.bauska.org -->
+<!-- css/styles.css of github 2026-02-feb.bauska.org making 2026-feb.bauska.org -->
 <!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
@@ -101,7 +101,7 @@ a:hover {
   color: #990000;  /* crimson */
 }
 a:hover::after {
-  width: 88%;
+  width: 85%;
 }
 
 <!-- World, National & International Days -->
@@ -110,7 +110,7 @@ a:hover::after {
 .groundhog {
     background-color:#9aff9a;  /* pale lime green */
 }
-.natl-womens-physicians {
+.natl-women-physicians {
     background-color:#ff9999;  /* very light red */
 }
 .world-cancer {
