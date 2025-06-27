@@ -105,6 +105,8 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
+.ghog {
+    background-color:#9aff9a;  /* pale lime green */
 .groundhog {
     background-color:#9aff9a;  /* pale lime green */
 }
