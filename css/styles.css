@@ -23,7 +23,7 @@ h1 {
   letter-spacing:3px;
   padding-right:50px;
   padding-top:150px;
-  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  text-shadow:-1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   vertical-align:top;
 }
 /* padding-bottom:150px; */
@@ -37,21 +37,21 @@ h1 {
 }
 
 .weekday-header {
-  background-color:#999;  /* dark gray */
-  border-color:#ddd;  /* very light gray */
+  background-color:#999;
+  border-color:#ddd;
   border-style:solid;
   letter-spacing:1px;
   line-height:25px;
 }
 .week {
-  background-color:#ffff00;  /* eaeaea = very light gray */
+  background-color:#ffff00;
   height:75px;
   margin:0;
   text-align:left;
   vertical-align:top;
 }
 .off-day {
-  background-color:#ddd;  /* very light gray */
+  background-color:#ddd;
 }
 
 ul {
@@ -63,7 +63,7 @@ ul {
 
 .event {
     border-radius:5px;
-    color:#10171c;  /* very dark (mostly black) blue */
+    color:#10171c;
     padding:5px;
     margin:5px 0;
 }
@@ -106,9 +106,9 @@ a:hover::after {
 
 <!-- World, National & International Days -->
 .ghog {
-    background-color:#9aff9a;  /* pale lime green */
+    background-color:#9aff9a;
 .groundhog {
-    background-color:#9aff9a;  /* pale lime green */
+    background-color:#9aff9a;
 }
 .natl-women-physicians {
     background-color:#ff9999;  /* very light red */
