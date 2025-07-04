@@ -1,5 +1,5 @@
-<!-- css/styles.css of github 2026-02-feb.bauska.org making 2026-feb.bauska.org -->
-<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
+/* css/styles.css of 2026-02-feb making 2026-feb.bauska.org */
+/* was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; */
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
@@ -105,7 +105,7 @@ a:hover::after {
   width: 85%;
 }
 
-<!-- World, National & International Days -->
+/* World, National & International Days */
 .ghog {
     background-color:#9aff9a;
 }
